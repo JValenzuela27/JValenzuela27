@@ -1,16 +1,60 @@
-### Hi there 👋
+# Temas a aprender
+## IMPRESCINCIBLES
+### -VSCode
+### -GIT y GitHub
+### -Hosting
+### TypeScript
+### AWS (EC2,S3,LAMBDA,CLOUDFRONT)
+### Docker
+### Terminal (Bash y Powershell)
+### Arquitectura de Software
+### Protocolos SSH/HTTP
+### GitHub Actions
+### BitBucket Pipelines
+### Markdown
+### Vite
+### Kubernetes
+### Testing (React Testing Library, Jest)
+### Azure (OpenAI DialogFlow)
+### Performance Web
 
-<!--
-**JValenzuela27/JValenzuela27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## FRONTEND
+### HTML
+### CSS
+### Tailwiind CSS
+### JS
+### ReactJS
+### NextJS
+cHADCN
+ChakraUI
 
-Here are some ideas to get you started:
+## BACKEND
+### NodeJS
+### Formato JSON
+### Express JS
+### ORM (Prisma, TypeORM)
+### NestJS
+### Postman (Bruno u otra alternativa)
+### Linux
+### APIs TRPC
+pATRON bff
+pYTHON, Django
+Java, Springboot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## BASES DE DATOS
+### MySQL
+### PostgreSQL
+### MongoDB
+### Supabase
+
+## CLOUD
+### PaaS
+### IaaS
+### DataBase
+### SMS
+### Email
+### Object Storage
+
+### COSAS CONCRETAS
+- Dockerizar aplicacion NestJS
+- 
