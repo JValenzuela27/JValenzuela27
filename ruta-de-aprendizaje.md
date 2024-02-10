@@ -21,6 +21,7 @@
 - [ ] CSS.
 - [ ] Tailwiind CSS.
 - [ ] JS.
+- [ ] HTMX.
 - [ ] Vite.
 - [ ] ReactJS.
 - [ ] Shadcn.
@@ -44,6 +45,8 @@
 - [ ] Bash Scripting.
 - [ ] Docker.
 - [ ] Arquitectura de Software.
+- [ ] Clean Code.
+- [ ] Principios Solid.
 - [ ] Protocolos SSH Y HTML.
 - [ ] NodeJS.
 - [ ] Formato JSON.
