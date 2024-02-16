@@ -4,7 +4,7 @@
 <details>
   <summary> Empezar por aquí.</summary>
 
-- [ ] VSCode.
+- [X] VSCode.
 - [ ] GIT.
 - [ ] GitHub.
 - [ ] GitHub Actions.
