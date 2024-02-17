@@ -11,6 +11,7 @@ Curso de Dalto.
 
 # JavaScript
 [Curso 14H Falcon Master](https://www.youtube.com/watch?v=Eh-s-n_6zNQ)
+[Consumir API con Fetch](https://www.youtube.com/watch?v=PNr8-JDMinU)
 
 # Tailwiind CSS
 [Curso](https://www.youtube.com/watch?v=L8xAYHUUq60)
@@ -58,6 +59,8 @@ Curso de Dalto.
 [Curso NestJS Ingles](https://www.youtube.com/watch?v=GHTA143_b-s)
 [Crear PDF con Node](https://www.youtube.com/watch?v=_TEikWd9GW0)
 [Bibliotecas BackEnd](https://www.youtube.com/watch?v=R0Qy1LzJ7_k)
+[API Rest Express](https://www.youtube.com/watch?v=xRXHQlqA3Ak)
+[Clean Architecture Node](https://www.youtube.com/watch?v=497L4-LhvdM)
 GENERAR CONTENIDO "JSON DATA AI"
 
 # GITHUB ACTIONS
@@ -81,6 +84,8 @@ GENERAR CONTENIDO "JSON DATA AI"
 [Linters Midu](https://www.youtube.com/watch?v=QpDpRmlFfqI)
 [Principios SOLID](https://www.youtube.com/watch?v=JFmH-0JEZbU)
 [Graficos](https://www.youtube.com/watch?v=4KUJOvCSQu4)
+[Herramientas desarrollo](https://www.youtube.com/watch?v=7Ycf3FYcF_A)
+[Utilidades](https://www.youtube.com/watch?v=kVQguYQ5IsA)
 
 # MySQL
 [Curso Ingles](https://www.youtube.com/watch?v=5OdVJbNCSso)
@@ -113,6 +118,7 @@ GENERAR CONTENIDO "JSON DATA AI"
 
 # LINUX
 [Linux para Hacking Etico](https://www.youtube.com/watch?v=8v1cR7-msQ0)
+[Curso Linux](https://www.youtube.com/watch?v=t23trHbTOQE&list=PL2Z95CSZ1N4FKsZQKqCmbylDqssYFJX5A&index=1)
 
 # UI/UX
 [12 Leyes Dalto](https://www.youtube.com/watch?v=ABggYX2jOsM)
@@ -149,3 +155,18 @@ GENERAR CONTENIDO "JSON DATA AI"
 
 # Noticias programacion
 [Enlaces Mouredev](https://www.youtube.com/watch?v=vHv7n0wJD18)
+
+
+https://www.youtube.com/watch?v=Nx7nG16Ebdc
+- Escalidraw
+
+# OTROS ASPECTOS
+- App Multi idioma
+- Ecommerce con pasarela de pago
+- Juego de memoria
+- Dashboard
+- Clon WhatsApp
+- Landing Page
+- Bot WhatsApp
+- Proyecto con Socket.io
+- [Pagina Gimnasio](https://www.youtube.com/watch?v=uDR2nycW4Wk)
